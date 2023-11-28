@@ -10,7 +10,7 @@ TODO: Dev Parasania
 
 #### Project title
 
-TODO: 
+TODO: Springing skies
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+TODO: I have installed pygame program, written code for creating graphics window, designed it (with platforms that the character can jump on) and added a character
 
 #### What have you not done for your project yet?
 
-TODO
+TODO: I still need to set the score statistics display, high score line, and have to write code for the character to jump and control on platforms by the user
 
 #### What problems, if any, have you encountered?
 
-TODO
+TODO: I have not encounteered any problems so far
